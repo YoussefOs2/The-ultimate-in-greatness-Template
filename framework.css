@@ -231,6 +231,18 @@
 .border-eee {
   border: 1px solid #eee;
 }
+.border-orange:hover {
+  border-color: var(--orange-color) !important;
+}
+.border-red:hover {
+  border-color: var(--red-color) !important;
+}
+.border-blue:hover {
+  border-color: var(--blue-color) !important;
+}
+.border-green:hover {
+  border-color: var(--green-color) !important;
+}
 /* End Border */
 /* Start Width + Height */
 .w-full {
